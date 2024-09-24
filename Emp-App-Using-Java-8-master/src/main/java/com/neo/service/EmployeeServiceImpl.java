@@ -1,17 +1,15 @@
-package com.yash.service;
+package com.neo.service;
 
 import java.util.List;
 import java.util.Optional;
 
-import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Service;
-import org.springframework.web.bind.annotation.PathVariable;
 
-import com.yash.dto.EmployeeRequest;
-import com.yash.dto.EmployeeResponse;
-import com.yash.exception.EmployeeNotFoundException;
-import com.yash.model.Employee;
-import com.yash.repository.EmployeeRepository;
+import com.neo.dto.EmployeeRequest;
+import com.neo.dto.EmployeeResponse;
+import com.neo.exception.EmployeeNotFoundException;
+import com.neo.model.Employee;
+import com.neo.repository.EmployeeRepository;
 
 import lombok.RequiredArgsConstructor;
 

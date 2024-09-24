@@ -1,4 +1,4 @@
-package com.yash.exception;
+package com.neo.exception;
 
 public class EmployeeNotFoundException extends RuntimeException {
 

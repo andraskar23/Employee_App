@@ -1,10 +1,9 @@
-package com.yash.service;
+package com.neo.service;
 
 import java.util.List;
-import java.util.Optional;
 
-import com.yash.dto.EmployeeRequest;
-import com.yash.dto.EmployeeResponse;
+import com.neo.dto.EmployeeRequest;
+import com.neo.dto.EmployeeResponse;
 
 
 public interface EmployeeService {

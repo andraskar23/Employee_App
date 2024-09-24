@@ -1,4 +1,4 @@
-package com.yash.dto;
+package com.neo.dto;
 
 import lombok.*;
 

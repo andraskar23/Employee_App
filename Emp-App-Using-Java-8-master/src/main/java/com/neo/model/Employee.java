@@ -1,4 +1,4 @@
-package com.yash.model;
+package com.neo.model;
 
 import jakarta.persistence.*;
 import lombok.*;
